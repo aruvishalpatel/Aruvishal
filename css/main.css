@@ -1335,7 +1335,7 @@ textarea, label {
   .contact-form .input-field.name {
     margin-right: 0; } 
     
-    @media only screen and (min-width: 400px) {
+    @media only screen and (min-width: 200px) {
       .imageflex{
         width: 100%;
       }
